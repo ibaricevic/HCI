@@ -9,10 +9,9 @@ The platform bridges the gap between traditional local farming and digital commu
 ---
 
 ## Problem Statement
-Small family farms often struggle to present their products online and manage customer communication efficiently. Traditional methods like markets or social media posts are limited and time-consuming.
+Small family farms often struggle to present their products online and manage customer communication efficiently, because traditional methods like markets or social media posts are limited and time-consuming.
 Customers, on the other hand, have difficulty finding authentic and natural honey and learning about its origin.
 
----
 
 ## Target Users
 - **Local customers** looking for natural raw honey and bee products  
@@ -20,7 +19,6 @@ Customers, on the other hand, have difficulty finding authentic and natural hone
 - **Visitors** interested in beekeeping workshops or farm activities
 - **Bee-curious readers** who want tips, recipes, or to follow the farm’s season  
 
----
 
 ## Proposed Solution
 Honey Heaven provides an inviting, easy-to-use web platform that brings the family farm online.  
@@ -30,9 +28,8 @@ The platform helps the farm maintain direct communication with its community, sh
 
 By organizing all content in one place, Honey Heaven not only supports product sales but also celebrates local craftsmanship and the importance of bees in our ecosystem.
 
----
 
 ## How the Idea Came Up
 The idea was inspired by the real needs of the family’s beekeeping business and the desire to modernize how they connect with customers.  
 After discussing the challenges of promoting products through social media and word-of-mouth alone, the family decided that a simple, user-friendly website could help strengthen their presence and make it easier for people to discover their honey.  
-This project grew out of that vision—to combine tradition and technology to share authentic, high-quality honey with a wider audience.
+This project grew out of that vision-to combine tradition and technology to share authentic, high-quality honey with a wider audience.
