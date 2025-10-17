@@ -1,5 +1,5 @@
 # Honey Heaven 🐝  
-Family Farm Honey & Bee Products  
+**Family Farm Honey & Bee Products**  
 
 ## Project Overview
 **Honey Heaven** is a web application created to represent a small family beekeeping business that produces and sells natural honey and other bee products.  
@@ -21,7 +21,7 @@ Customers, on the other hand, have difficulty finding authentic and natural hone
 
 
 ## Proposed Solution
-Honey Heaven provides an inviting, easy-to-use web platform that brings the family farm online.  
+*Honey Heaven* provides an inviting, easy-to-use web platform that brings the family farm online.  
 Visitors can browse a range of honey and bee products, filter them by type or category, and read engaging blog posts about life on the farm, beekeeping practices, and product uses.  
 Registered users can access private sections that offer additional materials such as wholesale offers or workshop details.  
 The platform helps the farm maintain direct communication with its community, share updates quickly, and build customer trust through transparency and storytelling.  
