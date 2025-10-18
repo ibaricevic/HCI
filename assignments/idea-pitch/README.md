@@ -32,9 +32,8 @@ This project grew out of that vision-to combine tradition and technology to shar
 
 
 ## Deliverables
-A short video of idea pitch:
-<video controls width="720">
-  <source src="./Honey%20Heaven_%20Idea%20Pitch.mp4" type="video/mp4">
-  Your browser does not support the video tag. You can download the video here:
-  <a href="./Honey%20Heaven_%20Idea%20Pitch.mp4">Download the pitch video</a>
-</video>
+A short video of idea pitch.
+[![Watch the video](https://github.com/ibaricevic/HCI/blob/idea-pitch/assignments/idea-pitch/HH_logo.png)](https://github.com/ibaricevic/HCI/blob/idea-pitch/assignments/idea-pitch/Honey%20Heaven_%20Idea%20Pitch.mp4)
+
+You can download the video here:
+<a href="./Honey%20Heaven_%20Idea%20Pitch.mp4">Download the pitch video</a>
