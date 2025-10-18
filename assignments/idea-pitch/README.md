@@ -1,10 +1,7 @@
 # Honey Heaven 🐝  
-**Family Farm Honey & Bee Products**  
+**Honey Heaven - Family Farm Honey & Bee Products**  
 
-## Project Overview
-**Honey Heaven** is a web application created to represent a small family beekeeping business that produces and sells natural honey and other bee products.  
-The project aims to give the farm a modern online presence where customers can easily explore products, learn about the beekeeping process, and stay connected through blog stories and updates.  
-The platform bridges the gap between traditional local farming and digital communication, allowing the family to share their work, promote sustainability, and reach both loyal and new customers more effectively.
+**Honey Heaven** is a web application created to represent a small family beekeeping business that produces and sells natural honey and other bee products. The project aims to give the farm a modern online presence where customers can easily explore products, learn about the beekeeping process, and stay connected through blog stories and updates. The platform bridges the gap between traditional local farming and digital communication, allowing the family to share their work, promote sustainability, and reach both loyal and new customers more effectively.
 
 ---
 
@@ -30,6 +27,9 @@ By organizing all content in one place, Honey Heaven not only supports product s
 
 
 ## How the Idea Came Up
-The idea was inspired by the real needs of the family’s beekeeping business and the desire to modernize how they connect with customers.  
-After discussing the challenges of promoting products through social media and word-of-mouth alone, the family decided that a simple, user-friendly website could help strengthen their presence and make it easier for people to discover their honey.  
+The idea was inspired by the real needs of the family’s beekeeping business and the desire to modernize how they connect with customers. After discussing the challenges of promoting products through social media and word-of-mouth alone, the family decided that a simple, user-friendly website could help strengthen their presence and make it easier for people to discover their honey.  
 This project grew out of that vision-to combine tradition and technology to share authentic, high-quality honey with a wider audience.
+
+
+## Deliverables
+A short video of idea pitch:
