@@ -34,6 +34,7 @@ This project grew out of that vision-to combine tradition and technology to shar
 ## Deliverables
 A short video of idea pitch.  
 You can download the video here:
-<a href="./Honey%20Heaven_%20Idea%20Pitch.mp4">Download the pitch video</a>
+<a href="./Honey%20Heaven_%20Idea%20Pitch.mp4">Download the pitch video</a>  
+You can watch the video here: <a href="https://fesb-my.sharepoint.com/:v:/g/personal/ibaric01_fesb_hr/EZLdAwHY-uJCpZikNgULG08BMdv3cmD1eT8hBt7avFaTtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5HNJ81">Watch Pitch Video</a>  
 
 
