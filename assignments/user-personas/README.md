@@ -57,7 +57,7 @@ Quality sourcing, simplicity, local collaboration.
 ---
 
 ## 👩‍🏫 Persona 3: Petra Banić
-<img src="images-personas/Gemini_Generated_Image_Petra.png" alt="Petra" width="200">
+<img src="images-personas/Gemini_Generated_Image_Petra.jpeg" alt="Petra" width="200">
 
 **Age:** 26  
 **Location:** Zadar, Croatia  
@@ -83,6 +83,7 @@ Learning, experience, environmental awareness.
 
 ## 🐝 Persona 4: Josip Marić
 <img src="images-personas/Gemini_Generated_Image_Josip.png" alt="Josip" width="200">
+
 **Age:** 41  
 **Location:** Unešić, Croatia  
 **Occupation:** Beekeeper & Owner of Honey Heaven Farm  
