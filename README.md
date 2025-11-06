@@ -18,7 +18,7 @@
 
 ### Semester Project
 
-- Link to your production version: [**Production Version**](URL_TO_PRODUCTION_VERSION) <!-- Replace with actual URL -->
+- Link to your production version: [**Production Version**](https://honey-heaven-xi.vercel.app/)
 - Link to your final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
@@ -26,7 +26,12 @@
 
 - Link to Assignment 1: [**Idea Pitch**](assignments/idea-pitch)  
 - Link to Assignment 2: [**User Personas & Information Architecture**](assignments/user-personas/)  
-- Link to Assignment 3: [**Assignment 3**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
+- Link to Assignment 3: [**Deploying Application**](https://honey-heaven-xi.vercel.app/)
+- Link to Assignment 4: [**Assignment 4**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
+<!-- Add more assignments as necessary -->
+- Link to Assignment 5: [**Assignment 5**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
+<!-- Add more assignments as necessary -->
+- Link to Assignment 6: [**Assignment 6**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
